@@ -1,0 +1,13 @@
+body {
+    font: .75em/1.5 'Lucida Bright', sans-serif; font-style: normal;
+    font-weight: 400
+}
+
+/* 
+
+this is skidded from the main.css file that blips.club uses, i do NOT know css.
+
+also W beautify
+
+mix
+        */
